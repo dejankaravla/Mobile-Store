@@ -3,12 +3,12 @@
 To Log in as an Admin: Username: admin, Password: admin.
 To Log in as a Client: Username: client, Password: client.
 
-# Abouth Mobile-Store App
+# About Mobile-Store App
 
 I developed this app for my friend, to help his business grow. The app has two interfaces. One for the admin and one for the clients. The clients can put the products in the shopping bag, then select quantity and then order selected products. The client can view his new order as well as old orders in the order page. The admin can add products and delete products. Admin can also use order page, but for him, there are all orders, from all the clients. The admin can also select clients by name and see that client orders. All the orders are sorted by date. My friend wanted for this app to be locked. He didn't want for everyone to see it, but only his buyers and the people he gives permission.
 
 
-# Abouth Development
+# About Development
 
 In this project back end, I used Google Firebase. I had many restrictions, but I managed. For database I used both realtime database and Firestore. The uploaded images are stored on Firebase storage. The bandwidth was a problem because Firebase gives only 1GB per day. My budget for this app was zero, but if I had more I could builded better back end, not using Firebase with all his restrictions.  
 
